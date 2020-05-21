@@ -1,2 +1,2 @@
 # visfunjoy.com
- My personal website
+ Backend and dependencies for my personal app and website
